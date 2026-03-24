@@ -13,7 +13,7 @@ Welcome to my 6-month coding journey with Code Legion!
 | Day | Topic | Code |
 |-----|-------|------|
 | Day 1 | Variables | [day1.py](Day1/day1.py) |
-| Day 2 | Coming soon | - |
+| Day 2 | Variables and Operations | [day2.py](Day2/day2.py) |
 | Day 3 | Coming soon | - |
 
 ## Projects
