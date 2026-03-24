@@ -1,0 +1,25 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+env/
+.env
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Project files (don't upload data files)
+*.txt
+*.csv
+
+# Personal
+*.secret
+*.key
