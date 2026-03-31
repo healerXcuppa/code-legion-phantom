@@ -17,7 +17,9 @@ Welcome to my 6-month coding journey with Code Legion!
 | Day 3 | Variable Manipulation and String Operations | [day3.py](Day3/day3.py) |
 | Day 4 | Boolean Variables and Comparison Operations | [day4.py](Day4/day4.py) |
 | Day 5 | Lists and List Operations | [(day5.py)](Day5.py/day5.py) |
-| Day 6 | Coming soon | - |
+| Day 6 | Simple Project Using Syntax from Day 1 -5 | [(day6.py)](Day6/day6.py) |
+| Day 7 | Coming soon | - |
+
 
 ## Projects
 
