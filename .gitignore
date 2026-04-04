@@ -23,3 +23,22 @@ Thumbs.db
 # Personal
 *.secret
 *.key
+
+#C++ Compiled files
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+a.out
+
+#JAVA Compiled Files
+*.class
+*.jar
+*.war
+*.ear
+target/
+bin/
+out/
