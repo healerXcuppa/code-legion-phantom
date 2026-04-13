@@ -34,7 +34,7 @@ Each Sunday, a different language teaches the weekly topic. I practice in both t
 | Week 6 | Python | Loops | Coming soon |
 
 ## Projects
-
+d
 | Month | Project | Status |
 |-------|---------|--------|
 | Month 1 | Contact Book | Not started |
@@ -46,9 +46,17 @@ Each Sunday, a different language teaches the weekly topic. I practice in both t
 2. Navigate to the day folder
 3. Run: `python filename.py`
 
-For C++ code: `g++ filename.cpp -o output && ./output`
+## How to Run My Code (For C++ code)
 
-For Java code: `javac filename.java && java filename`
+1. Clone this repo
+2. Navigate to the day folder
+3. Run: `g++ filename.cpp -o output && ./output`
+
+## How to Run My Code (For Java code)
+
+1. Clone this repo
+2. Navigate to the day folder
+3. Run: `javac filename.java && java filename`
 
 ## Connect with Me
 
