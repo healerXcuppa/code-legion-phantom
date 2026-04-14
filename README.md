@@ -27,7 +27,7 @@ Each Sunday, a different language teaches the weekly topic. I practice in both t
 | Week | Language Learned | Topic | My Code |
 |------|-----------------|-------|---------|
 | Week 1 | C++ | Variables | [C++ Code](Other-Languages/cpp/week1_variables.cpp) |
-| Week 2 | Java | Variables | Coming soon |
+| Week 2 | Java | Variables | [Java Code](Other-Languages/java/week1_variables.java) |
 | Week 3 | Python | Variables | Coming soon |
 | Week 4 | C++ | Loops | Coming soon |
 | Week 5 | Java | Loops | Coming soon |
