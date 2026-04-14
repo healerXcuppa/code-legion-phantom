@@ -18,7 +18,7 @@ Welcome to my 6-month coding journey with Code Legion!
 | Day 4 | Booleans & Comparisons | [day4.py](Day4/day4.py) |
 | Day 5 | Lists | [day5.py](Day5/day5.py) |
 | Day 6 | Mini Project | [day6.py](Day6/day6.py) |
-| Day 7 | Mini Project(Upgrade) | [day7.py](Day7/day7.py) |
+| Day 7 | Mini Project(Upgrade) + Loops Idea Task| [day7.py](Day7/day7.py), [day7(2).py](Day7/day7(2).py) |
 
 ## Cross-Language Learning (Sunday Classes)
 
