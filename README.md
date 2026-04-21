@@ -50,7 +50,7 @@ Each Sunday, a different language teaches the weekly topic. I practice in both t
 | Week 6 | Python | Loops | Coming soon |
 
 ## Projects
-d
+
 | Month | Project | Status |
 |-------|---------|--------|
 | Month 1 | Contact Book | Not started |
