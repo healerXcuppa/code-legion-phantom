@@ -12,13 +12,15 @@ Welcome to my 6-month coding journey with Code Legion!
 
 | Day | Topic | Code |
 |-----|-------|------|
-| Day 1 | Variables | [day1.py](Day1/day1.py) |
-| Day 2 | Numbers & Math | [day2.py](Day2/day2.py) |
-| Day 3 | Strings | [day3.py](Day3/day3.py) |
-| Day 4 | Booleans & Comparisons | [day4.py](Day4/day4.py) |
-| Day 5 | Lists | [day5.py](Day5/day5.py) |
-| Day 6 | Mini Project | [day6.py](Day6/day6.py) |
-| Day 7 | Mini Project(Upgrade) + Loops Idea Task| [day7.py](Day7/day7.py), [day7(2).py](Day7/day7(2).py) |
+| Day 1(Week 1) | Variables | [day1.py](Day1/day1.py) |
+| Day 2(Week 1) | Numbers & Math | [day2.py](Day2/day2.py) |
+| Day 3(Week 1) | Strings | [day3.py](Day3/day3.py) |
+| Day 4(Week 1) | Booleans & Comparisons | [day4.py](Day4/day4.py) |
+| Day 5(Week 1) | Lists | [day5.py](Day5/day5.py) |
+| Day 6(Week 1) | Mini Project | [day6.py](Day6/day6.py) |
+| Day 7(Week 2) | Mini Project(Upgrade) | [day7.py](Day7/day7.py) |
+| Day 7(Week 2) | Loops Project (Main week tasks) | [day7(2).py](Day7/day7(2).py) |
+| Day 8(Week 3) | Rock, Paper, Scissors Game | [day8.py](Day8/day8.py) |
 
 ## Cross-Language Learning (Sunday Classes)
 
@@ -28,7 +30,7 @@ Each Sunday, a different language teaches the weekly topic. I practice in both t
 |------|-----------------|-------|---------|
 | Week 1 | C++ | Variables | [C++ Code](Other-Languages/cpp/week1_variables.cpp) |
 | Week 2 | Java | Variables | [Java Code](Other-Languages/java/week1_variables.java) |
-| Week 3 | Python | Variables | Coming soon |
+| Week 3 | Python | Variables | [Python Code](Other-Languages/python/week1_variables.py) |
 | Week 4 | C++ | Loops | Coming soon |
 | Week 5 | Java | Loops | Coming soon |
 | Week 6 | Python | Loops | Coming soon |
