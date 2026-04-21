@@ -1,12 +1,26 @@
-# Code Legion - My Python Journey
+# CODE LEGION - MY PYTHON JOURNEY
 
-Welcome to my 6-month coding journey with Code Legion!
+**A 6-month coding journey mastering Python while learning Java & C++ through cross-language collaboration.**
 
-## About Me
+## 👤 ABOUT ME
 
-- **Name:** PHANTOM
-- **Primary Language:** Python
-- **Goal:** Master Python and learn Java/C++ basics
+| | |
+|---|---|
+| **Codename** | PHANTOM |
+| **Primary Language** | Python |
+| **Role** | Team Lead & Python Pod |
+| **Goal** | Master Python → Learn Java & C++ basics → Build real projects |
+
+## 👥 CODE LEGION TEAM
+
+*We are 4 developers learning together. Each masters one language while learning the basics of the others.*
+
+| Codename | Primary Language | Role | GitHub |
+|----------|------------------|------|--------|
+| **PHANTOM** | Python | Team Lead & Python Pod | [github.com/healerXcuppa](https://github.com/healerXcuppa) |
+| **ALPHA** | Java | Java Pod Lead | [github.com/kfabulous](https://github.com/kfabulous) |
+| **QUEEN** | Java | Java Pod | [github.com/Coded-cyber](https://github.com/Coded-cyber) |
+| **BEAST** | C++ | C++ Solo | [github.com/morkehemma-alt](https://github.com/morkehemma-alt) |
 
 ## Daily Progress (Python)
 
