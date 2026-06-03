@@ -33,7 +33,7 @@
 | Day 5(Week 1) | Lists | [day5.py](Day5/day5.py) |
 | Day 6(Week 1) | Mini Project | [day6.py](Day6/day6.py) |
 | Day 7(Week 2) | Mini Project(Upgrade) | [day7.py](Day7/day7.py) |
-| Day 7(Week 2) | Loops Project (Main week tasks) & Sub Tasks| [day7(2).py](Day7/day7(2).py) |
+| Day 7(Week 2) | Loops Project (Main week tasks) & Sub Tasks| [day7_2.py](Day7/day7_2.py) |
 | Day 8(Week 3) | Rock, Paper, Scissors Game | [day8.py](Day8/day8.py) |
 
 ## Cross-Language Learning (Sunday Classes)
