@@ -22,19 +22,19 @@
 | **QUEEN** | Java | Java Pod | [github.com/Coded-cyber](https://github.com/Coded-cyber) |
 | **BEAST** | C++ | C++ Solo | [github.com/morkehemma-alt](https://github.com/morkehemma-alt) |
 
-## Daily Progress (Python)
+## Weekly Progress (Python)
 
-| Day | Topic | Code |
+| Week | Topic | Code |
 |-----|-------|------|
-| Day 1(Week 1) | Variables | [day1.py](Day1/day1.py) |
-| Day 2(Week 1) | Numbers & Math | [day2.py](Day2/day2.py) |
-| Day 3(Week 1) | Strings | [day3.py](Day3/day3.py) |
-| Day 4(Week 1) | Booleans & Comparisons | [day4.py](Day4/day4.py) |
-| Day 5(Week 1) | Lists | [day5.py](Day5/day5.py) |
-| Day 6(Week 1) | Mini Project | [day6.py](Day6/day6.py) |
-| Day 7(Week 2) | Mini Project(Upgrade) | [day7.py](Day7/day7.py) |
-| Day 7(Week 2) | Loops Project (Main week tasks) & Sub Tasks| [day7_2.py](Day7/day7_2.py) |
-| Day 8(Week 3) | Rock, Paper, Scissors Game | [day8.py](Day8/day8.py) |
+| Week 1 (Day 1) | Variables | [day1.py](week1/Day1/day1.py) |
+| Week 1 (Day 2) | Numbers & Math | [day2.py](week1/Day2/day2.py) |
+| Week 1 (Day 3) | Strings | [day3.py](week1/Day3/day3.py) |
+| Week 1 (Day 4) | Booleans & Comparisons | [day4.py](week1/Day4/day4.py) |
+| Week 1 (Day 5) | Lists | [day5.py](week1/Day5/day5.py) |
+| Week 1 (Day 6) | Mini Project | [day6.py](week1/Day6/day6.py) |
+| Week 2 | Mini Project(Upgrade) | [day7.py](week2/Day7/day7.py) |
+| Week 2 | Loops Project | [day7_2.py](week2/Day7/day7_2.py) |
+| Week 3 | Rock, Paper, Scissors Game | [day8.py](week3/Day8/day8.py) |
 
 ## Cross-Language Learning (Sunday Classes)
 
@@ -48,6 +48,12 @@ Each Sunday, a different language teaches the weekly topic. I practice in both t
 | Week 4 | C++ | Loops | Coming soon |
 | Week 5 | Java | Loops | Coming soon |
 | Week 6 | Python | Loops | Coming soon |
+
+## Applied Works (Self Improve Projects)
+
+| Project | Status | My Code |
+|---------|--------|---------|
+| Simple Game | Completed | [RPS/CT](Projects/game.py) |
 
 ## Projects
 
