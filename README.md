@@ -35,6 +35,7 @@
 | Week 2 | Mini Project(Upgrade) | [day7.py](week2/Day7/day7.py) |
 | Week 2 | Loops Project | [day7_2.py](week2/Day7/day7_2.py) |
 | Week 3 | Rock, Paper, Scissors Game | [day8.py](week3/Day8/day8.py) |
+| Week 4 | Calculator Using Functions | [week4.py](week4/week4.py) |
 
 ## Cross-Language Learning (Sunday Classes)
 
@@ -53,7 +54,10 @@ Each Sunday, a different language teaches the weekly topic. I practice in both t
 
 | Project | Status | My Code |
 |---------|--------|---------|
-| Simple Game | Completed | [RPS/CT](Projects/game.py) |
+| Simple Game | Completed | [RPS/CT](Projects/Game/game.py) |
+| AI CHATBOT | In Progress | [AI](Projects/AI_Chatbot/main.py) |
+| Guess Number | Completed (V1) | [Guess Game](Projects/Num_Guess/main.py) |
+
 
 ## Projects
 
