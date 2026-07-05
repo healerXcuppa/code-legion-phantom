@@ -54,7 +54,7 @@ Each Sunday, a different language teaches the weekly topic. I practice in both t
 
 | Project | Status | My Code |
 |---------|--------|---------|
-| Simple Game | Completed | [RPS/CT](Projects/Game/game.py) |
+| Simple Game | Completed | [RPS/CT](Projects/Game_Menu/game.py) |
 | AI CHATBOT | In Progress | [AI](Projects/AI_Chatbot/main.py) |
 | Guess Number | Completed (V1) | [Guess Game](Projects/Num_Guess/main.py) |
 
