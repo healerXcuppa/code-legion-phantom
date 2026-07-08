@@ -52,12 +52,12 @@ Each Sunday, a different language teaches the weekly topic. I practice in both t
 
 ## Applied Works (Self Improve Projects)
 
-| Project | Status | My Code |
-|---------|--------|---------|
-| Simple Game | Completed | [RPS/CT](Projects/Game_Menu/game.py) |
-| AI CHATBOT | In Progress | [AI](Projects/AI_Chatbot/main.py) |
-| Guess Number | Completed (V1) | [Guess Game](Projects/Num_Guess/main.py) |
-
+| Project | Status | My Code | Project Docs |
+|---------|--------|---------|--------------|
+| Simple Game | Completed | [RPS/CT](Projects/Game_Menu/game.py) | |
+| AI CHATBOT | In Progress | [AI CHATBOT](Projects/AI_Chatbot/main.py) | |
+| Guess Number | Completed (V1) | [Guess Game](Projects/Num_Guess/main.py) | |
+| ATM SIMULATOR | Completed | [ATM MACHINE](Projects/ATM-Simulator/atm.py) | [DOCS](Projects/ATM-Simulator/README.md) |
 
 ## Projects
 
@@ -88,6 +88,7 @@ Each Sunday, a different language teaches the weekly topic. I practice in both t
 
 - GitHub: [healerXcuppa](https://github.com/healerXcuppa)
 - Discord: [healerXcuppa](https://discordapp.com/users/healer_x_cuppa)
+- Telegram: [healerXcuppa](https://t.me/healerXcuppa)
 
 ---
 
