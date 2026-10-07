@@ -58,6 +58,7 @@ Each Sunday, a different language teaches the weekly topic. I practice in both t
 | AI CHATBOT | In Progress | [AI CHATBOT](Projects/AI_Chatbot/main.py) | |
 | Guess Number | Completed (V1) | [Guess Game](Projects/Num_Guess/main.py) | |
 | ATM SIMULATOR | Completed | [ATM MACHINE](Projects/ATM-Simulator/atm.py) | [DOCS](Projects/ATM-Simulator/README.md) |
+| CLI BANK SYSTEM | Completed | [CODE LEGION BANK](Projects/bank_system/main.py) | [DOCS](Projects/bank_system/README.md) |
 
 ## Projects
 
