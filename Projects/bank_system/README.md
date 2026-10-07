@@ -456,7 +456,7 @@ No external banking service is required.
 
 ```bash
 git clone https://github.com/healerXcuppa/code-legion-phantom.git
-cd Projects/'Bank System'
+cd Projects/bank_system
 ```
 
 ### Install pytest
