@@ -2,27 +2,38 @@
 __pycache__/
 *.pyc
 *.pyo
+*.pyd
+
+# Testing & Pytest artifacts
+.pytest_cache/
+.coverage
+htmlcov/
 
 # Virtual environment
 venv/
 env/
+ENV/
 .env
 
 # VS Code settings
 .vscode/
 *.code-workspace
+.idea/
 
 # OS files
 .DS_Store
 Thumbs.db
+Desktop.ini
 
 # Project files (don't upload data files)
 *.txt
 *.csv
+!requirements.txt
 
 # Personal
 *.secret
 *.key
+*.pem
 
 #C++ Compiled files
 *.exe
@@ -42,3 +53,9 @@ a.out
 target/
 bin/
 out/
+
+# Database Files
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
